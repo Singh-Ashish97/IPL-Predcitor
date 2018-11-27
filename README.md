@@ -1,5 +1,12 @@
 # IPL-Prediction
 IPL Predictor using spark Mllib in Python
+Done By:
+Anmol Aeron 01FB16ECS064
+Ashish Singh 01FB16ECS076
+Chirag Kavdia 01FB16ECS098
+
+
+
 
 Dataset
 stat_batsman - contains Batsman stats - avg, strike rate
