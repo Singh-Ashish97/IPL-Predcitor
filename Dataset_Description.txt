@@ -1,0 +1,23 @@
+1.stat_bowler.csv :
+Player-Player name
+Ave-average
+Econ-economy
+SR-strike rate
+
+2.stat_batsman.csv :
+Player - Player name
+Ave-average
+SR-strike rate
+
+
+3.data.csv :
+batavg -batsman avg
+batsr - batsman strike rate
+bowlavg -bowler average
+bowleco -bowler economy
+bowlsr -bowler strike rate
+ball_no -ball number
+innings - innings
+runs -runs scored or wicket on that ball
+
+
